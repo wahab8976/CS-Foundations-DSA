@@ -1,6 +1,6 @@
 #include "bits/stdc++.h"
 
-double myPow(double x, int n) 
+    double myPow(double x, int n) 
     {
         /*
             Binary Exponentiation
